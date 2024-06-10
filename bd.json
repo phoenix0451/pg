@@ -1,8 +1,8 @@
 {
 "urls":[
 {"name":"📚精品本地📚",
-"url":"clan://localhost/PG/zc.json"},
+"url":"https://raw.githubusercontent.com/phoenix0451/pg/main/zc.json"},
 {"name":"📚浮力本地📚",
-"url":"clan://localhost/PG/fl.json"}
+"url":"https://raw.githubusercontent.com/phoenix0451/pg/main/fl.json"}
 ]
 }
