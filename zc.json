@@ -256,23 +256,6 @@
 			"timeout":60
 		},
 		
-{
-            "key": "传奇影院",
-            "name": "传奇影院",
-            "type": 3,
-            "jar": "./lib/XBPQ.jar",
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "语言": "中文",
-                "请求头": "手机",
-                "地址发布页": "",
-                "主页url": "https://jlcwhxh.com//",
-                "分类url": "https://jlcwhxh.com//vodtype/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/year/{year}/page/{catePg}/"
-            }
-        },
   {"key": "剧兔","name": "追剧兔子┃┃💠V2","type": 3,"api": "csp_AppYsV2","ext": "https://www.zjtu.one/api.php/app/"},
  
   {"key": "银河","name": "银河影视┃┃💠V2","type": 3,"api": "csp_AppYsV2","ext": "http://134.175.219.46/mogai_api.php/v1.vod"},
