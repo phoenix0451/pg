@@ -182,27 +182,6 @@
             "ext": "./json/4k4k.json",
             "jar": "./lib/XBPQ.jar"
         },
-    {
-      "key": "XBPQ_酷茶",
-      "name": "🧨ˎˊ˗ 𝐘𝐞𝐞𝐞𝐞 酷茶",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar":"./lib/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "图片": "src=\"&&\"",
-       "标题":"title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "播放链接": "href=\"&&\"",
-        "立即播放":"1",
-        "搜索url": "https://www.kcys.top/search/index.html?keyword={wd}",
-        "分类url": "https://www.kcys.top/vod/index.html?page={catePg}&type_id={cateId}",
-        //"分类url": "https://www.kcys.top/vod/player.html?cate_id={cateId}&id={cateId}&type_id={cateId}",
-         "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$39"
-      }
-    },
          {
             "key": "纤纤影视",
             "name": "💎纤纤影视",
