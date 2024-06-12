@@ -119,6 +119,15 @@
 			"ext": "./lib/jianpian.json$$$1",
 			"timeout":60
 		},
+				    {
+      "key": "Wexhuaruitv",
+      "name": "🌺花蕊",
+      "type": 3,
+      "api": "csp_Wexhuaruitv",
+      "jar": "./jar/wex.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
   {"key": "银河","name": "银河影视┃┃💠V2","type": 3,"api": "csp_AppYsV2","ext": "http://134.175.219.46/mogai_api.php/v1.vod"},
 
   {"key": "追风资源","name": "追风影视┃┃🌿CJ","type": 1,"api": "http://www.zfsp.cc/api.php/provide/vod/"},
