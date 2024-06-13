@@ -445,6 +445,10 @@
         "日韩综艺",
         "欧美综艺"]
     },
+{"key":"XBPQ_文才","name":"❤️‍🔥文才",
+	"type":3,"api":"csp_XBPQ",
+	"jar":"./lib/XBPQ.jar",
+	"ext":"./json/文才.json"},
     {
       "key": "https://leshizy.com/",
       "name": "🎡┃乐事采集┃仅搜索",
