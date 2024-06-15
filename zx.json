@@ -139,6 +139,21 @@
                 "分类": "电影$1#电视剧$2#综艺$4#动漫$3#短剧$5"
             }
         },
+	  {
+            "key": "https://www.kukuda.com",
+            "name": "😎酷酷哒┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar":"./lib/XBPQ.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "搜索url": "https://www.kukuda.com/index.php/vod/search.html?keyword={wd}",
+                "分类url": "https://www.kukuda.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html",
+                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5#体育$20"
+            }
+        },
   {"key": "银河","name": "银河影视┃┃💠V2","type": 3,"api": "csp_AppYsV2","ext": "http://134.175.219.46/mogai_api.php/v1.vod"},
 
   {"key": "追风资源","name": "追风影视┃┃🌿CJ","type": 1,"api": "http://www.zfsp.cc/api.php/provide/vod/"},
