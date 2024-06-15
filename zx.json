@@ -162,23 +162,6 @@
   {"key": "五一资源","name": "五壹影视┃┃🌿CJ","type": 1,"api": "http://www.51zhuiju.cc/api.php/provide/vod/"},
   {"key": "六六资源","name": "六六影视┃┃🌿CJ","type": 1,"api": "https://www.666bo.top/api.php/provide/vod/"},
   {"key": "三八资源","name": "三八影视┃┃🌿CJ","type": 1,"api": "https://vod38.com/api.php/provide/vod/"},
-		    {
-    "key": "XBPQ_毒蛇",
-    "name": "💞┃毒蛇┃💠",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar": "./lib/XBPQ.jar",
-    "ext": {
-        "数组":"class=\"module-item\">&&</div>",
-        "图片": "data-original=\"&&\"[替换:/vod1>>https://vres.a357899.cn/vod1]",
-        "搜索url": "https://dushe5.app/search?os=pc&k={wd}&page={pg}",
-        "线路数组":"<a&&</a>[排序:蓝光8>蓝光>FF线路]",
-        "线路标题":"class=\"source-item-label\">&&</span>",
-        "分类url": "https://dushe5.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
-        "分类": "电影&电视剧&动漫&综艺纪录&短剧",
-        "分类值": "1&2&3&4&6"
-    }
-},
                   {
       "key": "视觉",
       "name": "👓新视觉┃多线",
