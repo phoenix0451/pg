@@ -128,7 +128,7 @@
       "searchable": 1,
       "changeable": 1
     },
-		   {
+	   {
             "key": "NO视频",
             "name": "NO视频",
             "type": 3,
@@ -155,7 +155,8 @@
                 "倒序": "0",
                 "分类": "电影$5738#电视剧$5749#动漫$5767#综艺$5758#你懂的$5748",
                 "分类url": "https://www.dgjiawu.com/mo-1zxgt/{cateId}/1/0/0/0/0/{catePg}[https://www.dgjiawu.com/mo-1zxgt/{cateId}/1];;RC"
-            },
+            }
+        },
     {
             "key": "https://tv.012023.xyz/",
             "name": "🦈鲨鱼影视",
