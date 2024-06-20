@@ -128,6 +128,16 @@
       "searchable": 1,
       "changeable": 1
     },
+     {
+      "key": "鸭奈飞",
+      "name": "⚡鸭飞┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yanetflix.me/api.php/app/"
+    },
        {
             "key": "NO视频",
             "name": "NO视频",
