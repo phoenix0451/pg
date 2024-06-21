@@ -207,6 +207,16 @@
       "searchable": 1,
       "changeable": 1
     },
+       {
+      "key": "甲子影视",
+      "name": "甲子🌲影视",
+      "type": 3,
+      "api": "csp_Wexjiazitv",
+      "jar": "./jar/wex.jar",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1
+    },
 		         {
             "key": "hipy_js_采集之王",
             "name": "🔥采集之王",
